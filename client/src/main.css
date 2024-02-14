@@ -1,0 +1,145 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 10pt;
+    color: black;
+    min-width:375px;
+}
+
+.headerBlue {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 60pt;
+    font-weight: 700;
+    color:  rgb(29, 94, 172);
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.headerBlack {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 60pt;
+    font-weight: 700;
+    color: black;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.subHeader {
+    font-size: 22pt;
+    font-weight: 200;
+    color: black;
+    letter-spacing: 16px;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.paragraphTitle {
+    font-size: 26pt;
+    font-weight: 700;
+    color: black;
+    letter-spacing: 12px;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 16pt;
+    line-height: 45px;
+}
+
+.block {
+    border: 1px solid  rgb(29, 94, 172);
+    background-color:  rgb(29, 94, 172);
+    height: 13px;
+    width: 220px;
+    margin: 5px 1px 40px 1px;
+  }
+
+.headerBox {
+    width: 80%;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #f0f5ff;
+    border-radius: 20px;
+    box-shadow: 15px 10px 10px;
+}
+
+button {
+    box-shadow: 10px 5px 5px  black;
+}
+
+button:active {
+    box-shadow: 3px 2px 2px  black;
+}
+
+.home-link {
+    font-size: 28pt;
+    font-weight: 700;
+    color: rgb(29, 94, 172);
+}
+
+.login-links {
+    font-size: 18pt;
+    height: 80px;
+    width: 150px;
+    margin:50px;
+}
+
+#login-links-box{
+    text-align: center;
+}
+
+#welcomeMsg {
+    font-size:  48pt;
+    color: rgb(29, 94, 172);
+}
+
+.boxCenter {
+    text-align: center;
+}
+
+.memberLink {
+    font-size: 24pt;
+}
+
+.editBox {
+    text-align: center;
+}
+
+.warning {
+    color: red;
+}
+
+@media screen and (max-width: 780px) {
+      form {
+        border: none;
+        box-shadow: none;
+      }
+      
+      .headerBlue,.headerBlack  {
+        font-size: 24pt;
+      }
+
+      .subHeader {
+        font-size: 10pt;
+        font-weight: 600;
+        letter-spacing: 10px;
+      }
+      
+      .paragraphTitle {
+        font-size:20pt;
+        letter-spacing: 6px;
+        color: black;
+        margin-top:5px;
+      }
+
+      p, a {
+        font-size: 12pt;
+        line-height: 30px;
+      }
+      
+      .block {
+        height: 6px;
+        width: 110px;
+        margin: 5px 1px 20px 01px;
+      }
+}

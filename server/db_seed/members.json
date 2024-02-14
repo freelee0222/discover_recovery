@@ -1,0 +1,165 @@
+{
+	"firstName" : "Admin",
+	"lastName" : "A",
+    "age" : "",
+    "gender": "",
+	"phone" : "",
+	"cleanDay" : "1953-02-22",
+	"email" : "admin@1234",
+    "password" : "$2b$10$o8ryhCkE9v3yBWzlnHV86.KaZ1tHbzXnaTuLm129c9shbODygrqU2",
+    "homegroup" : "Administrator",
+	"sponsorName" : "Administrator",
+    "isSponsor" : true,
+    "isAdmin": true,
+    "madeAdminBy": "Admin"
+}
+{
+	"firstName" : "Jeffrey",
+	"lastName" : "Clements",
+    "age" : "39",
+    "gender": "male",
+	"phone" : "(901)372-3542",
+	"cleanDay" : "2016-10-24",
+	"email" : "jeffrey.clements.3022690@tlm.cloud",
+    "password" : "$2b$10$o8ryhCkE9v3yBWzlnHV86.KaZ1tHbzXnaTuLm129c9shbODygrqU2",
+    "homegroup" : "Dopeless Hopefiends",
+	"sponsorName" : "Brent B.",
+    "isSponsor" : true,
+    "isAdmin": true,
+    "madeAdminBy": "Admin"
+}
+{
+	"firstName" : "Adam",
+	"lastName" : "Wilson",
+    "age" : "40",
+    "gender": "male",
+	"phone" : "(406)555-2562",
+	"cleanDay" : "2015-10-24",
+	"email" : "adam.wilson@tlm.cloud",
+    "password" : "$2b$10$o8ryhCkE9v3yBWzlnHV86.KaZ1tHbzXnaTuLm129c9shbODygrqU2",
+    "homegroup" : "none",
+	"sponsorName" : "none",
+    "isSponsor" : true,
+    "isAdmin": false,
+    "madeAdminBy": ""
+}
+{
+	"firstName" : "Zach",
+	"lastName" : "Henderson",
+    "age" : "31",
+    "gender": "male",
+	"phone" : "(406)555-8465",
+	"cleanDay" : "2017-08-22",
+	"email" : "zach.henderson@tlm.cloud",
+    "password" : "$2b$10$o8ryhCkE9v3yBWzlnHV86.KaZ1tHbzXnaTuLm129c9shbODygrqU2",
+    "homegroup" : "none",
+	"sponsorName" : "none",
+    "isSponsor" : true,
+    "isAdmin": false,
+    "madeAdminBy": ""
+}
+{
+	"firstName" : "Kat",
+	"lastName" : "E",
+    "age" : "45",
+    "gender": "female",
+	"phone" : "(406)555-5555",
+	"cleanDay" : "2010-05-21",
+	"email" : "kat@gmail.com",
+    "password" : "$2b$10$o8ryhCkE9v3yBWzlnHV86.KaZ1tHbzXnaTuLm129c9shbODygrqU2",
+    "homegroup" : "none",
+	"sponsorName" : "none",
+    "isSponsor" : true,
+    "isAdmin": false,
+    "madeAdminBy": ""
+}
+{
+	"firstName" : "Jessica",
+	"lastName" : "C",
+    "age" : "52",
+    "gender": "female",
+	"phone" : "(406)555-5555",
+	"cleanDay" : "2017-04-15",
+	"email" : "jessica@gmail.com",
+    "password" : "$2b$10$o8ryhCkE9v3yBWzlnHV86.KaZ1tHbzXnaTuLm129c9shbODygrqU2",
+    "homegroup" : "none",
+	"sponsorName" : "none",
+    "isSponsor" : true,
+    "isAdmin": false,
+    "madeAdminBy": ""
+}
+{
+	"firstName" : "Sarah",
+	"lastName" : "G",
+    "age" : "43",
+    "gender": "female",
+	"phone" : "(406)555-5555",
+	"cleanDay" : "2009-07-14",
+	"email" : "sarah@gmail.com",
+    "password" : "$2b$10$o8ryhCkE9v3yBWzlnHV86.KaZ1tHbzXnaTuLm129c9shbODygrqU2",
+    "homegroup" : "none",
+	"sponsorName" : "none",
+    "isSponsor" : true,
+    "isAdmin": false,
+    "madeAdminBy": ""
+}
+{
+	"firstName" : "Rob",
+	"lastName" : "C",
+    "age" : "31",
+    "gender": "male",
+	"phone" : "(406)555-5555",
+	"cleanDay" : "2017-11-28",
+	"email" : "rob@gmail.com",
+    "password" : "$2b$10$o8ryhCkE9v3yBWzlnHV86.KaZ1tHbzXnaTuLm129c9shbODygrqU2",
+    "homegroup" : "none",
+	"sponsorName" : "none",
+    "isSponsor" : true,
+    "isAdmin": false,
+    "madeAdminBy": ""
+}
+{
+	"firstName" : "Billy",
+	"lastName" : "B",
+    "age" : "27",
+    "gender": "non-binary",
+	"phone" : "(406)555-5555",
+	"cleanDay" : "2017-08-22",
+	"email" : "billy@gmail.com",
+    "password" : "$2b$10$o8ryhCkE9v3yBWzlnHV86.KaZ1tHbzXnaTuLm129c9shbODygrqU2",
+    "homegroup" : "none",
+	"sponsorName" : "none",
+    "isSponsor" : true,
+    "isAdmin": false,
+    "madeAdminBy": ""
+}
+{
+	"firstName" : "Karen",
+	"lastName" : "K",
+    "age" : "65",
+    "gender": "female",
+	"phone" : "(406)555-5555",
+	"cleanDay" : "1993-05-19",
+	"email" : "Karen@gmail.com",
+    "password" : "$2b$10$o8ryhCkE9v3yBWzlnHV86.KaZ1tHbzXnaTuLm129c9shbODygrqU2",
+    "homegroup" : "none",
+	"sponsorName" : "none",
+    "isSponsor" : true,
+    "isAdmin": false,
+    "madeAdminBy": ""
+}
+{
+	"firstName" : "Grant",
+	"lastName" : "J",
+    "age" : "67",
+    "gender": "male",
+	"phone" : "(406)555-5555",
+	"cleanDay" : "1987-07-22",
+	"email" : "grant@gmail.com",
+    "password" : "$2b$10$o8ryhCkE9v3yBWzlnHV86.KaZ1tHbzXnaTuLm129c9shbODygrqU2",
+    "homegroup" : "none",
+	"sponsorName" : "none",
+    "isSponsor" : true,
+    "isAdmin": false,
+    "madeAdminBy": ""
+}

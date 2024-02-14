@@ -1,0 +1,35 @@
+{
+	"name" : "Independence Day Fireworks",
+	"location" : "1500 Broadway",
+	"date" : "2023-07-04",
+	"time" : "21:00",
+	"description" : "Come see the fireworks and ....."
+}
+{
+	"name" : "Rummage Sale",
+	"location" : "1500 Broadway",
+	"date" : "2023-09-25",
+	"time" : "10:00",
+	"description" : "This rummage sale ....."
+}
+{
+	"name" : "Splash Mountain",
+	"location" : "2200 Reserve Rd.",
+	"date" : "2023-09-30",
+	"time" : "12:00",
+	"description" : "Splash around with us at the last day of ....."
+}
+{
+	"name" : "BBQ and Speaker",
+	"location" : "2200 South Ave.",
+	"date" : "2023-10-24",
+	"time" : "17:00",
+	"description" : "Whole pig roast and Bob G. will be speaking ....."
+}
+{
+	"name" : "Corbin J's Birthday",
+	"location" : "1500 North Ave.",
+	"date" : "2023-10-24",
+	"time" : "19:30",
+	"description" : "Lots of food and games ....."
+}

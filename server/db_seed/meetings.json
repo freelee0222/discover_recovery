@@ -1,0 +1,45 @@
+{
+	"name" : "Freedom Group",
+	"type" : "Open Meeting",
+	"location" : "1500 Broadway",
+	"members" : "30",
+	"days" : ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+	"time" : "12:00",
+	"description" : "The Freedom Group is a very welcoming meeting with an average attendance of 15-25 people."
+}
+{
+	"name" : "Zoo Crew",
+	"type" : "Open Meeting",
+	"location" : "1500 Broadway",
+	"members" : "25",
+	"days" : ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+	"time" : "19:00",
+	"description" : "Zoo Crew is a group that has a wide age range and an average attendance of about 20-30 people."
+}
+{
+	"name" : "Rise and Shine",
+	"type" : "Closed Meeting",
+	"location" : "1683 1st Ave.",
+	"members" : "12",
+	"days" : ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+	"time" : "07:00",
+	"description" : "The Rise & Shine group is a closed meeting and has an average attendance of 4-10 people."
+}
+{
+	"name" : "Dopeless Hopefiends",
+	"type" : "Open Meeting",
+	"location" : "2808 Speedway",
+	"members" : "20",
+	"days" : [" Friday"],
+	"time" : "10:00",
+	"description" : "Dopeless Hopefiends is a late night meeting that meets 7 days a week. The average attendance is 5-15 people"
+}
+{
+	"name" : "Hug Life",
+	"type" : "Open Meeting",
+	"location" : "1500 Broadway",
+	"members" : "35",
+	"days" : ["Saturday"],
+	"time" : "20:00",
+	"description" : "Hug Life is a speaker meeting that meets every weeknight and the average attendance is anywhere from 20-50 people."
+}

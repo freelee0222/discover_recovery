@@ -1,0 +1,71 @@
+.card { 
+    width: 60%;
+    margin: 20px auto;
+}
+  
+.cardTitle {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 48pt;
+    font-weight: 700;
+}
+
+.cardDate {
+    font-size: 38pt;
+    font-weight: 700;
+    color: rgb(29, 94, 172);
+    letter-spacing: 12px;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.cardDays {
+    font-weight: 700;
+    color: rgb(29, 94, 172);
+}
+
+.cardTime {
+    font-size: 28pt;
+    font-weight: 700;
+}
+
+.cardDescription {
+    font-size: 18pt;
+}
+
+.cardLocation {
+    font-size: 16pt;
+    font-weight: 200;
+    color: black;
+    letter-spacing: 16px;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.edit {
+    margin-right: 20px;
+    float: right;
+}
+
+@media screen and (max-width: 780px) {
+    .cardTitle {
+        font-size: 24pt;
+    }
+
+    .cardDate {
+        font-size: 18pt;
+    }
+
+    .cardTime {
+        font-size: 14pt;
+    }
+
+    .cardLocation {
+        font-size:  8pt;
+        font-weight: 600;
+    }
+
+    .cardDescription {
+        font-size: 14pt;
+    }
+
+}

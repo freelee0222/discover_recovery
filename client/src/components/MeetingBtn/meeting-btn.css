@@ -1,0 +1,8 @@
+.meetingBtn {
+    background-color: grey;
+    font-size: 24pt;
+    height: 110px;
+    margin: 15px auto;
+    width: 30vw;
+    min-width: 290px;;
+}

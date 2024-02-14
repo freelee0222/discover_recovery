@@ -1,0 +1,12 @@
+.clockBlock {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 300px;
+    width: 95vw;
+    text-align: center;
+    background-color:  #f0f5ff;
+    color: black;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 20px auto;
+    box-shadow: 15px 10px 10px;
+}

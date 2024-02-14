@@ -1,0 +1,12 @@
+#gremlin {
+    height: 400px;
+    margin-left: 100px;
+    border: solid black 5px;
+    border-radius: 50%;
+}
+
+@media screen and (max-width: 710px) {
+    #gremlin {
+        height: 200px;
+    }
+}
