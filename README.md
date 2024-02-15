@@ -1,6 +1,6 @@
 # Discover Recovery
 
-"Discover Recovery" is an app that collects and displays current meetings and activities for recovery groups.
+Hello, Welcome to Discover Recovery, an app that collects and displays current meetings and activities for recovery groups.
 
 <div style="text-align: center;">
 <img src="./client/public/assets/welcome.gif"
