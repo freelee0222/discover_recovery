@@ -102,14 +102,6 @@ $ npm start
     * In order to flag a member for sponsorship or grant administrative privileges, select the grey **"View Members"** button. This will display an ordered list of all current members names. Select a member to see radio buttons allowing you to toggle their sponor/admin status.
 
 ***
-
-## Contributing
-TLM's "movie-buzz" was used as a reference, especially with patterns for controlled inputs making up all of my forms. Thank you to most of the TLM academic support team for consistently going above and beyond with their responses and ensuring that their answers to all of my questions were thorough.
-
-## License
-
-  [TLM](LICENSE)
-***
 ***
 
   # Reasearch and Explanation
